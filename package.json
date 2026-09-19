@@ -34,7 +34,7 @@
     "@mercuryworkshop/epoxy-transport": "^3.0.1",
     "@mercuryworkshop/libcurl-transport": "^2.0.5",
     "@mercuryworkshop/proxy-transports": "^1.0.2",
-    "@mercuryworkshop/scramjet": "2.0.67-alpha.2",
+    "@mercuryworkshop/scramjet": "https://github.com/MercuryWorkshop/scramjet#main"
     "@mercuryworkshop/scramjet-controller": "^0.0.14",
     "@mercuryworkshop/wisp-js": "^0.5.0",
     "@playform/compress": "^0.1.6",
